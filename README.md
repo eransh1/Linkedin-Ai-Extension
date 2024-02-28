@@ -2,6 +2,8 @@
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
+## Working Extension Walkthrough Video Link
+
 ## Getting Started
 
 First, run the development server:
