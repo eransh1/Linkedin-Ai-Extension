@@ -4,6 +4,9 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Working Extension Walkthrough Video Link
 
+![Extension walkthrough video](extension_walkthrough_video.mp4)
+
+
 ## Getting Started
 
 First, run the development server:
