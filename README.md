@@ -4,7 +4,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Working Extension Walkthrough Video Link
 
-![Extension walkthrough video](extension_walkthrough_video.mp4)
+https://github.com/eransh1/Linkedin-Ai-Extension/assets/110032464/70f7b6fd-beb4-4f0b-b0be-d57eb53135c3
 
 
 ## Getting Started
